@@ -1,7 +1,7 @@
 {
-  "name": "Rummy Scorekeeper",
-  "short_name": "Rummy",
-  "description": "Cross 250 and you're out",
+  "name": "Sasi's Rummy",
+  "short_name": "Sasi's Rummy",
+  "description": "Sasi's Rummy scorekeeper",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
