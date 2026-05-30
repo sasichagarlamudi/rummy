@@ -1,4 +1,4 @@
-const CACHE = 'rummy-v14';
+const CACHE = 'rummy-v15';
 const ASSETS = [
   './',
   './index.html',
